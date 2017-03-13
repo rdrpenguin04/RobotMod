@@ -1,0 +1,16 @@
+[
+{
+  "modid": "robotmod",
+  "name": "Robot Mod",
+  "description": "Adds robots to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rdrpenguin2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
