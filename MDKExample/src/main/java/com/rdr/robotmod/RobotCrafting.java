@@ -12,5 +12,6 @@ public class RobotCrafting {
 				"RIR",
 				'R', Blocks.REDSTONE_BLOCK,
 				'I', Blocks.IRON_BLOCK);
+		GameRegistry.addShapelessRecipe(new ItemStack(RobotItems.RAM), RobotItems.IC, Blocks.CHEST);
 	}
 }
